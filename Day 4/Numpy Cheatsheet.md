@@ -174,9 +174,8 @@ a = np.array([3,1,2])
 a.sort()
 print(a)
 [1 2 3]
-
-## Math
 ```
+## Math
 ```np.mean(arr, axis=0)```
 ```
 Returns mean along specified axis
